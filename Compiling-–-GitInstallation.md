@@ -93,6 +93,7 @@ If you plan to install the training tools, you also need the following libraries
 
 ```
 sudo apt-get install libicu-dev
+sudo apt-get install libfribidi-dev
 sudo apt-get install libpango1.0-dev
 sudo apt-get install libcairo2-dev
 ```
